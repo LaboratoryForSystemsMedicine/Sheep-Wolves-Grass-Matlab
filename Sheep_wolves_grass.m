@@ -16,11 +16,11 @@ par.wolfgain =    20; % Energy gain by Wolves for eating one Sheep
 par.wolfgrowth =   5; % Probability of Wolves generating offspring
 par.worldx =      51; % x and y dimensions of the world
 par.worldy =      51;
-par.maxsheep =  30000; % Used to pre-alocate tables, but not required. Although it will run slower if exedeed during the simulation
+par.maxsheep =  30000; % Used to pre-allocate tables, but not required. Although it will run slower if exceeded during the simulation
 par.maxwolves = 30000;
-par.maxtime =   501; % Number of timesteps  0 .. maxtime-1
-par.graf = 1;         % Graphic output? 1- Yes  2- No
-par.addnum = 1;       % Number of simulations averaged
+par.maxtime =     501; % Number of timesteps  0 .. maxtime-1
+par.graf =          1; % Graphic output? 1- Yes  2- No
+par.addnum =        1; % Number of simulations averaged
 
 load('GSWcolormap'); % color scheme for the output
 
