@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sheep-Wolves-Grass-Matlab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Luis
+    name-particle: L.
+    family-names: Fonseca
+    email: llfonseca@medicine.ufl.edu
+    affiliation: >-
+      Department of Medicine, University of Florida,
+      Gainesville, FL, USA.
+    orcid: 'https://orcid.org/0000-0002-7902-742X'
+repository-code: >-
+  https://github.com/LaboratoryForSystemsMedicine/Sheep-Wolves-Grass-Matlab
+abstract: >-
+  Matlab reimplementation of the sheep-wolves-grass version
+  of the Netlogo's Wolf Sheep Predation model.
+keywords:
+  - Wolf Sheep Predation
+  - Matlab
+  - Agent based model
+license: MIT
